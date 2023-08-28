@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "item/spyglass"
