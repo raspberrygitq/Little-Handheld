@@ -1,6 +1,6 @@
 # Introduction
 
-> Resource Pack is applicable to reduce the size of items held in the paw in first-person mode. Useful for pvp. 
+Resource Pack is applicable to reduce the size of items held in the paw in first-person mode. Useful for pvp. 
 
 # Screenshot
 
