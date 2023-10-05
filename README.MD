@@ -5,4 +5,4 @@ Resource Pack is applicable to reduce the size of items held in the paw in first
 
 # Screenshot
 
-![Link Name](https://i.imgur.com/6dC3dbV.png)
+![](https://i.imgur.com/6dC3dbV.png)
