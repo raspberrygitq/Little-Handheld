@@ -1,9 +1,10 @@
 {
     "pack": {
+        "description": "Little Handheld - by gitq",
         "pack_format": 15,
         "supported_formats": {
-            "min_inclusive": 15, "max_inclusive": 18
-         },
-        "description": "Little Handheld - by gitq"
+            "min_inclusive": 15,
+            "max_inclusive": 18
+        }
     }
 }
